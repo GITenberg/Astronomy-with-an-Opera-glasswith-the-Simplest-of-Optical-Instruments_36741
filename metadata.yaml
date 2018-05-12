@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2120
     wikipedia: http://en.wikipedia.org/wiki/Garrett_P._Serviss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36741#Astronomy-with-an-Opera-glasswith-the-Simplest-of-Optical-Instruments
 gutenberg_issued: '2011-07-15'
 gutenberg_type: Text
 identifiers:
